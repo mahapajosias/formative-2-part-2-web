@@ -38,14 +38,15 @@ Give the school a credible and visible online platform that reflects professiona
 Homepage → About Us → resources → donations → Contact
 
 ## Changelog
-- [18 Aug 2025] Created Part 2 structure,content and style sheet.
+- [20 SEP 2025] Created Part 2 structure,content and style sheet.
 
 ## References
-- Google Fonts (n.d.). Google Fonts. Available at: https://fonts.google.com/ [Accessed: 23 August 2025]
-- W3Schools (n.d.). HTML, CSS, and JavaScript Tutorials. Available at: https://www.w3schools.com/ [Accessed: 23 August 2025]
-- Unsplash (n.d.). Free Stock Images. Available at: https://unsplash.com/ [Accessed: 23 August 2025]
+- Google Fonts (n.d.). Google Fonts. Available at: https://fonts.google.com/ [Accessed: 23 SEPTEMBER 2025]
+- W3Schools (n.d.). HTML, CSS, and JavaScript Tutorials. Available at: https://www.w3schools.com/ [Accessed: 23 SEPTEMBER 2025]
+- Unsplash (n.d.). Free Stock Images. Available at: https://unsplash.com/ [Accessed: 23 SEPTEMBER 2025]
 
 ## PROJECT LINKS
 - https://github.com/mahapajosias/formative-2-part-2-web.git
 
 - https://cozy-malabi-233e00.netlify.app/
+
